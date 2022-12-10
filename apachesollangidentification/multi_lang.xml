@@ -1,0 +1,24 @@
+<add>
+  <doc>
+    <field name="id">1</field>
+    <field name="title">Sherlock Holmes</field>
+    <field name="content">This book consists of Holmes cases and how he solves them with Dr.Watson</field>
+  </doc>
+  <doc>
+    <field name="id">2</field>
+    <field name="title">Jules Verne</field>
+    <field name="content">Voyage au centre de la terre, Jules Verne.</field>
+  </doc>
+  <doc>
+    <field name="id">3</field>
+    <field name="title">Gabriel García Márquez</field>
+    <field name="content">Cien Años de Soledad</field>
+  </doc>
+  <doc>
+    <field name="id">4</field>
+    <field name="title">Idioms</field>
+    <field name="content_lang1">pedazo de pastel</field>
+    <field name="content_lang2">Hit the hay</field>
+    <field name="content_lang3">Poignardé dans le dos</field>
+  </doc>
+</add>

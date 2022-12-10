@@ -1,0 +1,27 @@
+<add>
+  <doc>
+    <field name="id">1</field>
+    <field name="title">Jules Verne</field>
+    <field name="content">Voyage au centre de la terre, Jules Verne</field>
+  </doc>
+  <doc>
+    <field name="id">2</field>
+    <field name="title">La belle et la bete</field>
+    <field name="content">La belle et la bete, Gabrielle-Suzanne Barbot de Villeneuve</field>
+  </doc>
+  <doc>
+    <field name="id">3</field>
+    <field name="title">La Cousine Bette</field>
+    <field name="content">La Cousine Bette, Honoré de Balzac</field>
+  </doc>
+  <doc>
+    <field name="id">4</field>
+    <field name="title">VOYAGE AU BOUT DE LA NUIT</field>
+    <field name="content">Voyage au bout de la nuit, Céline</field>
+  </doc>
+  <doc>
+    <field name="id">5</field>
+    <field name="title">Voltaire</field>
+    <field name="content">Candide, Voltaire</field>
+  </doc>
+</add>
